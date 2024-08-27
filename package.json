@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "vitest --no-watch",
-    "git-push": " git add . && git commit -m '$1' &&  git push",
+    "git-push": " git add . && git commit -m $1  &&  git push",
     "prepare": "husky"
   },
   "lint-staged": {
