@@ -6,6 +6,6 @@ import "./index.css";
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <App />
-    <h1>Hello Testing</h1>
+    <h1>Sakib Ahmed</h1>
   </StrictMode>
 );
